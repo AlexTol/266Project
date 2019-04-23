@@ -1,0 +1,7 @@
+generate and sort benign and malicious data ---
+
+Create malicious detection model
+
+Create Driver/feeder
+
+presentation
